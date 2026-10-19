@@ -1,0 +1,11 @@
+﻿customer_id,customer_name,email,region_id
+1,Demo Customer,,1
+2,Demo Customer,,1
+3,Demo Customer,,1
+4,Aarav Sharma,aarav.demo@example.com,1
+5,Priya Verma,priya.demo@example.com,2
+6,Rahul Singh,rahul.demo@example.com,3
+7,Neha Patel,neha.demo@example.com,4
+8,Amit Gupta,amit.demo@example.com,5
+9,Sneha Mishra,sneha.demo@example.com,1
+10,Rohan Jain,rohan.demo@example.com,2
