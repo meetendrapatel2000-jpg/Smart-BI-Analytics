@@ -1,5 +1,7 @@
 Smart Data Analytics & Business Intelligence
 
+🚀 **Live Dashboard:** [Open Smart BI Analytics](https://smart-bi-analytics-sas4btsmkk9x4tppzbneiv.streamlit.app/)
+
 ![Smart BI Dashboard](images/dashboard.png)
 
 ![Data Explorer](images/data_explorer.png)
