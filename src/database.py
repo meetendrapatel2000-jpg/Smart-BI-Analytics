@@ -10,7 +10,7 @@ from config.config import (
 )
 
 
-password = quote_plus(DB_PASSWORD)
+password = quote_plus(str(DB_PASSWORD or ""))
 
 engine = create_engine(
     f"mysql+mysqlconnector://{DB_USER}:{password}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
