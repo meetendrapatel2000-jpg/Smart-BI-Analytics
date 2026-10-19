@@ -1,5 +1,9 @@
 Smart Data Analytics & Business Intelligence
 
+![Smart BI Dashboard](images/dashboard.png)
+
+![Data Explorer](images/data_explorer.png)
+
 📊 Project Overview
 
 Smart Data Analytics & Business Intelligence is a Python-based project designed to explore business data and analyze customer, product, revenue, and profit performance through interactive dashboards.
